@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "夏のFree&Easy",
+  "base_artist": "Nogizaka46",
+  "createdAt": "2025-12-26T05:04:36.715015Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏のFree&Easy",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/01_夏のFree&Easy_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏のFree & Easy",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/02_夏のFree_&_Easy_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏のFree&Easy",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/03_夏のFree&Easy_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夏のFree&Easy",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/04_夏のFree&Easy_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夏のFree&Easy",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/05_夏のFree&Easy_乃木坂46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏のFree&Easy",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_夏のFree&Easy_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "夏のFree&Easy",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_02_夏のFree&Easy_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "夏のFree&Easy",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_03_夏のFree&Easy_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "夏のFree&Easy",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_04_夏のFree&Easy_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "夏のFree&Easy",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_05_夏のFree&Easy_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "夏のFree & Easy",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_06_夏のFree_&_Easy_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "夏のFree & Easy",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_07_夏のFree_&_Easy_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "夏のFree & Easy",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_08_夏のFree_&_Easy_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "夏のFree & Easy",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_09_夏のFree_&_Easy_乃木坂46.txt"
+    }
+  ]
+}
